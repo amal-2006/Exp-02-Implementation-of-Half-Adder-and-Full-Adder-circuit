@@ -88,4 +88,4 @@ endmodule
 ![Exp 3 Full adder Timing Diagram](https://github.com/amal-2006/Exp-02-Implementation-of-Half-Adder-and-Full-Adder-circuit/assets/148410730/e04818be-43ff-440a-981a-0dcef8eda3a7)
 
 # Result
-Hence, the output is verified successfully.
+Hence, the output is verified successfully. 
