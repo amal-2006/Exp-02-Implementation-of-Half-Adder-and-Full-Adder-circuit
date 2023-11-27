@@ -38,6 +38,10 @@ Switch ON the main switch
 If the output is 1, then the led glows.
 
 
+
+
+
+
 # Program:
 ### Half adder
 module HalfAdder(a,b,sum,carry);
