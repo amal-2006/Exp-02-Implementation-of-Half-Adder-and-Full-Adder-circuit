@@ -1,5 +1,5 @@
-# Name: Amaljosh Maadhav J
-# Roll No: 23014023
+### Name: Amaljosh Maadhav J
+### Roll No: 23014023
 # Experiment 03: Implementation of Half Adder and Full Adder circuit
 # AIM
 To design a half adder and full adder circuit and verify its truth table in Quartus using Verilog programming.
