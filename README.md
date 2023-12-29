@@ -1,4 +1,4 @@
-### Name: Amaljosh Maadhav J
+### Name: AMALJOSH MAADHAV J
 ### Roll No: 23014023
 # Experiment 03: Implementation of Half Adder and Full Adder circuit
 # AIM
